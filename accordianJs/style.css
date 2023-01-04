@@ -48,6 +48,7 @@ body{
 .accordian-content .acc-answer{
     height: 0;
     overflow: hidden;
+    transition: .5s;
 }
 
 /* Js active */
@@ -56,6 +57,7 @@ body{
 }
 .accordian-content.active .acc-question::after{
     content: '-';
+    transition: .5s;
 }
 .accordian-content.active .acc-answer{
     height: 150px;
