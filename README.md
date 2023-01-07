@@ -29,5 +29,16 @@
     - toString()
     - setInterval()
     - innerHtml
+    
+ ### 5. To Do List
+
+    - document.getElementById()
+    - addEventListener()
+    - e.target
+    - appendChild()
+    - createElement()
+    - parentElement()
+    - remove()
+    - classList.add()
 
 ***These projects are practising of Javascript DOM manipulation tutorial of FreeCodeCamp***
