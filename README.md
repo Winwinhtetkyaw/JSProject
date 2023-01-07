@@ -19,5 +19,15 @@
     - For loop
     - this 
     - classListoggle()
+    
+    
+ ### 4. StopWatch
+    - document.querySelector()
+    - document.getElementById()
+    - addEventListener()
+    - if statements
+    - toString()
+    - setInterval()
+    - innerHtml
 
 ***These projects are practising of Javascript DOM manipulation tutorial of FreeCodeCamp***
